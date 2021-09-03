@@ -3,6 +3,11 @@ Deep Learning for Video Object Segmentation: A Review
 
 |Methods		|Vanues	|Years	|Codes	|D16|D17|YV|Brief Contribution(s)|
 |---			|---		|---	|---	|---|---|---|---|
+|[LSE-VOS](https://openaccess.thecvf.com/content_ECCV_2018/papers/Hai_Ci_Video_Object_Segmentation_ECCV_2018_paper.pdf)|ECCV		|2018	||80.2|60.3|58.8|Online fine-tuning|
+|[PML](https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Blazingly_Fast_Video_CVPR_2018_paper.pdf)|CVPR		|2018	|[Caffe](https://github.com/yuhuayc/fast-vos)|80.2|60.3|58.8|Online fine-tuning|
+|[RGMP](https://openaccess.thecvf.com/content_cvpr_2018/papers/Oh_Fast_Video_Object_CVPR_2018_paper.pdf)|CVPR		|2018	|[PyTorch](https://github.com/seoungwugoh/RGMP)|80.2|60.3|58.8|Online fine-tuning|
+|[OnAVOS](https://arxiv.org/pdf/1706.09364.pdf)|BMVC		|2017	|[TFlow](https://www.vision.rwth-aachen.de/page/OnAVOS)|80.2|60.3|58.8|Online fine-tuning|
+|[OSVOS-S](https://arxiv.org/pdf/1709.06031.pdf)|PAMI		|2018	||80.2|60.3|58.8|Online fine-tuning|
 |[OnAVOS](https://arxiv.org/pdf/1706.09364.pdf)|BMVC		|2017	|[TFlow](https://www.vision.rwth-aachen.de/page/OnAVOS)|80.2|60.3|58.8|Online fine-tuning|
 |[MaskRNN](https://arxiv.org/pdf/1803.11187.pdf)|NeurIPS		|2017	||80.2|60.3|58.8|Mask propagation|
 |[PLM](https://openaccess.thecvf.com/content_ICCV_2017/papers/Yoon_Pixel-Level_Matching_for_ICCV_2017_paper.pdf)|ICCV		|2017	||80.2|60.3|58.8|Online fine-tuning|
