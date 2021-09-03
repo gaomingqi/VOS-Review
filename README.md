@@ -1,9 +1,21 @@
 # VOS-Review
 Deep Learning for Video Object Segmentation: A Review
 
-|Methods		|Vanues	|Years	|Codes	|D16|D17|YV|Brief Contribution(s)|
+|Methods		|Vanues	|Years	|Codes	|D16|D17|YV|Key Words|
 |---			|---		|---	|---	|---|---|---|---|
+|[STVOS](https://ieeexplore.ieee.org/abstract/document/8325298)|PAMI		|2018	||80.2|60.3|58.8|Online fine-tuning|
+|[PReMVOS](https://arxiv.org/pdf/1807.09190.pdf)|ACCV		|2018	|[TFlow](https://github.com/JonathonLuiten/PReMVOS)|80.2|60.3|58.8|Online fine-tuning|
+|[SCO-VOS](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yeong_Jun_Koh_Sequential_Clique_Optimization_ECCV_2018_paper.pdf)|ECCV		|2018	||80.2|60.3|58.8|Online fine-tuning|
+|[DyeNet](https://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaoxiao_Li_Video_Object_Segmentation_ECCV_2018_paper.pdf)|ECCV		|2018	|[PyTorch](https://github.com/lxx1991/VS-ReID)|80.2|60.3|58.8|Online fine-tuning|
+|[VideoMatch](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yuan-Ting_Hu_VideoMatch_Matching_based_ECCV_2018_paper.pdf)|ECCV		|2018	||80.2|60.3|58.8|Online fine-tuning|
 |[LSE-VOS](https://openaccess.thecvf.com/content_ECCV_2018/papers/Hai_Ci_Video_Object_Segmentation_ECCV_2018_paper.pdf)|ECCV		|2018	||80.2|60.3|58.8|Online fine-tuning|
+|[S2S](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ning_Xu_YouTube-VOS_Sequence-to-Sequence_Video_ECCV_2018_paper.pdf)|ECCV		|2018	||80.2|60.3|58.8|Online fine-tuning|
+|[OSMN](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Efficient_Video_Object_CVPR_2018_paper.pdf)|CVPR		|2018	|[TFlow](https://github.com/linjieyangsc/video_seg)|80.2|60.3|58.8|Online fine-tuning|
+|[RCAL-VOS](https://openaccess.thecvf.com/content_cvpr_2018/papers/Han_Reinforcement_Cutting-Agent_Learning_CVPR_2018_paper.pdf)|CVPR		|2018	||80.2|60.3|58.8|Online fine-tuning|
+|[MGCRN](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Motion-Guided_Cascaded_Refinement_CVPR_2018_paper.pdf)|CVPR		|2018	||80.2|60.3|58.8|Online fine-tuning|
+|[MoNet](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xiao_MoNet_Deep_Motion_CVPR_2018_paper.pdf)|CVPR		|2018	||80.2|60.3|58.8|Online fine-tuning|
+|[CINM](https://openaccess.thecvf.com/content_cvpr_2018/papers/Bao_CNN_in_MRF_CVPR_2018_paper.pdf)|CVPR		|2018	||80.2|60.3|58.8|Online fine-tuning|
+|[FAVOS](https://openaccess.thecvf.com/content_cvpr_2018/papers/Cheng_Fast_and_Accurate_CVPR_2018_paper.pdf)|CVPR		|2018	|[Caffe](https://github.com/JingchunCheng/FAVOS)|80.2|60.3|58.8|Online fine-tuning|
 |[PML](https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Blazingly_Fast_Video_CVPR_2018_paper.pdf)|CVPR		|2018	|[Caffe](https://github.com/yuhuayc/fast-vos)|80.2|60.3|58.8|Online fine-tuning|
 |[RGMP](https://openaccess.thecvf.com/content_cvpr_2018/papers/Oh_Fast_Video_Object_CVPR_2018_paper.pdf)|CVPR		|2018	|[PyTorch](https://github.com/seoungwugoh/RGMP)|80.2|60.3|58.8|Online fine-tuning|
 |[OnAVOS](https://arxiv.org/pdf/1706.09364.pdf)|BMVC		|2017	|[TFlow](https://www.vision.rwth-aachen.de/page/OnAVOS)|80.2|60.3|58.8|Online fine-tuning|
@@ -16,4 +28,5 @@ Deep Learning for Video Object Segmentation: A Review
 |[CTN](https://openaccess.thecvf.com/content_cvpr_2017/papers/Jang_Online_Video_Object_CVPR_2017_paper.pdf)|CVPR		|2017	|[Caffe](http://mcl.korea.ac.kr/~dotol1216/CVPR2017_CTN/index.html)|80.2|60.3|58.8|Mask propagation|
 |[MaskTrack](https://openaccess.thecvf.com/content_cvpr_2017/papers/Perazzi_Learning_Video_Object_CVPR_2017_paper.pdf)|CVPR		|2017	|[Matlab](https://fperazzi.github.io/projects/masktrack/index.html)|80.2|60.3|58.8|Mask propagation|
 |[OSVOS](https://openaccess.thecvf.com/content_cvpr_2017/papers/Caelles_One-Shot_Video_Object_CVPR_2017_paper.pdf)|CVPR		|2017	|[PyTorch](https://github.com/kmaninis/OSVOS-PyTorch)|80.2|60.3|58.8|Online fine-tuning|
+
 
