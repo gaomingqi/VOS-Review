@@ -30,7 +30,7 @@ TODO: tables showing the pdf and code links of the reviewed papers
 ### 4.1. Online Fine-tuning-based VOS
 
 |Methods|Vanues|Years|Codes|
-|---|---|---|---|---|---|
+|---|---|---|---|
 |OSVOS - [One-Shot Video Object Segmentation](https://openaccess.thecvf.com/content_cvpr_2017/papers/Caelles_One-Shot_Video_Object_CVPR_2017_paper.pdf)|CVPR|2017|[PyTorch](https://github.com/kmaninis/OSVOS-PyTorch)|
 
 ### 4.2. Feature Matching-based VOS
