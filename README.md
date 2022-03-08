@@ -6,7 +6,9 @@ This repo is built to facilitate access to the related VOS datasets and papers (
 
 If you find our review and repository useful for your research, please consider citing our paper:
 
-TODO: citation
+```bibtex
+TODO: article bibtex
+```
 
 ## Content
 
