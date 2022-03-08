@@ -2,9 +2,13 @@
 
 中文版博客[链接]() (TODO: blog link)
 
+## Citation
+If you find our survey and repository useful for your research, please consider citing our paper:
+
+TODO: citation
+
 ## Content
 
-- [Citation](#citation)
 - [Section 3. Datasets](#section-3-datasets)
 - [Section 4. Methods](#section-4-methods)
   - [4.1. Online Fine-tuning-based VOS](#41-online-fine-tuning-based-vos)
@@ -13,11 +17,6 @@
   - [4.4. Optical Flow-based VOS](#44-optical-flow-based-vos)
   - [4.5. Mask Propagation-based VOS](#45-mask-propagation-based-vos)
   - [4.6. Long-term Propagation-based VOS](#46-long-term-propagation-based-vos)
-
-## Citation
-If you find our survey and repository useful for your research, please consider citing our paper:
-
-TODO: citation
 
 ## Section 3. Datasets
 TODO: links of vos datasets
