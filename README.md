@@ -1,8 +1,9 @@
-# This repo is built for paper: Deep Learning for Video Object Segmentation: A Review ([pdf]())
+# This repo is built for paper: [Deep Learning for Video Object Segmentation: A Review]()
 TODO: paper link
+[toc]
 
 中文版博客[链接]()
-[toc]
+
 TODO: blog link
 
 ## Citation
