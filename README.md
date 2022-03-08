@@ -4,7 +4,7 @@ This repo is built to facilitate access to the related VOS datasets and papers (
 
 中文版博客[链接]() (TODO: blog link)
 
-If you find our survey and repository useful for your research, please consider citing our paper:
+If you find our review and repository useful for your research, please consider citing our paper:
 
 TODO: citation
 
