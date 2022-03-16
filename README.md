@@ -39,6 +39,7 @@ TODO: article bibtex
 |Years|Datasets with links|Paper links|Remarks|
 |:-:|---|:-:|---|
 |2016|[DAVIS-2016](https://davischallenge.org/davis2016/code.html)|[link](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Perazzi_A_Benchmark_Dataset_CVPR_2016_paper.pdf)|(Single object) Applicable to train and evaluate both Unsupervised and Semi-supervised VOS methods|
+|2017|[DAVIS-2017](https://davischallenge.org/davis2017/code.html)|[link](https://arxiv.org/pdf/1704.00675.pdf)|(Multiple objects) Applicable to train and evaluate Semi-supervised VOS methods (Two popular subsets for evaluation: validation and test-dev. The latter is more challenging.)|
 
 ## Section 4. Methods
 TODO: tables showing the pdf and code links of the reviewed papers
