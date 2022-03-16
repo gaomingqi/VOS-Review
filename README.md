@@ -40,6 +40,14 @@ TODO: article bibtex
 |:-:|---|:-:|---|
 |2016|[DAVIS-2016](https://davischallenge.org/davis2016/code.html)|[link](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Perazzi_A_Benchmark_Dataset_CVPR_2016_paper.pdf)|(Single object) Applicable to train and evaluate both Unsupervised and Semi-supervised VOS methods|
 |2017|[DAVIS-2017](https://davischallenge.org/davis2017/code.html)|[link](https://arxiv.org/pdf/1704.00675.pdf)|(Multiple objects) Applicable to train and evaluate Semi-supervised VOS methods (Two popular subsets for evaluation: validation and test-dev. The latter is more challenging.)|
+|2019|[DAVIS-2017-U](https://davischallenge.org/davis2017/code.html)|[link](https://arxiv.org/pdf/1704.00675.pdf)|(Multiple objects) Applicable to train and evaluate Unsupervised VOS methods|
+|2018|[YouTube-VOS-2018](https://competitions.codalab.org/competitions/19544#participate-get-data)|[link](https://arxiv.org/pdf/1809.03327.pdf)|(Multiple objects) Applicable to train and evaluate Semi-supervised VOS methods (Registration is required when downloading YouTube-VOS/VIS data)|
+|2019|[YouTube-VOS-2019](https://competitions.codalab.org/competitions/20127#participate-get-data)|[link](https://arxiv.org/pdf/1809.03327.pdf)|(Multiple objects) Applicable to train and evaluate Semi-supervised VOS methods|
+|2019|[YouTube-VIS-2019](https://competitions.codalab.org/competitions/20128#participate-get_data)|[link](https://arxiv.org/pdf/1905.04804.pdf)|(Multiple objects) Applicable to train and evaluate Unsupervised VOS methods|
+|2021|[YouTube-VIS-2021](https://competitions.codalab.org/competitions/28988#participate-get_data)|[link](https://arxiv.org/pdf/1905.04804.pdf)|(Multiple objects) Applicable to train and evaluate Unsupervised VOS methods|
+
+
+
 
 ## Section 4. Methods
 TODO: tables showing the pdf and code links of the reviewed papers
