@@ -29,7 +29,7 @@ TODO: tables showing the pdf and code links of the reviewed papers
 
 ### 4.1. Online Fine-tuning-based VOS
 
-|Paper titles with links|Venues|Years|Codes|
+|Paper titles with links (abbreviates in our review)|Venues|Years|Codes|
 |---|:-:|:-:|:-:|
 |[One-Shot Video Object Segmentation](https://openaccess.thecvf.com/content_cvpr_2017/papers/Caelles_One-Shot_Video_Object_CVPR_2017_paper.pdf) (OSVOS)|CVPR|2017|[PyTorch](https://github.com/kmaninis/OSVOS-PyTorch)|
 |[Online Adaptation of Convolutional Neural Networks for Video Object Segmentation](https://arxiv.org/pdf/1706.09364.pdf) (OnAVOS)|BMVC|2017|[Tenserflow](https://www.vision.rwth-aachen.de/page/OnAVOS)|
