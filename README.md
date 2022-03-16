@@ -30,7 +30,7 @@ TODO: tables showing the pdf and code links of the reviewed papers
 ### 4.1. Online Fine-tuning-based VOS
 
 |Paper titles with links|Venues|Years|Codes|
-|---|---|:-:|:-:|
+|---|:-:|:-:|:-:|
 |OSVOS - [One-Shot Video Object Segmentation](https://openaccess.thecvf.com/content_cvpr_2017/papers/Caelles_One-Shot_Video_Object_CVPR_2017_paper.pdf)|CVPR|2017|[PyTorch](https://github.com/kmaninis/OSVOS-PyTorch)|
 |OnAVOS - [Online Adaptation of Convolutional Neural Networks for Video Object Segmentation](https://arxiv.org/pdf/1706.09364.pdf)|BMVC|2017|[Tenserflow](https://www.vision.rwth-aachen.de/page/OnAVOS)|
 |OSVOS-S - [Video Object Segmentation without Temporal Information](https://ieeexplore.ieee.org/document/8362936)|TPAMI|2018|[Website](https://cvlsegmentation.github.io/osvos-s/)|
@@ -41,7 +41,7 @@ TODO: tables showing the pdf and code links of the reviewed papers
 #### Variants
 
 |Paper titles with links|Venues|Years|Codes|
-|---|---|:-:|:-:|
+|---|:-:|:-:|:-:|
 |OSMN - [Efficient Video Object Segmentation via Network Modulation](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Efficient_Video_Object_CVPR_2018_paper.pdf)|CVPR|2018|[Tensorflow](https://github.com/linjieyangsc/video_seg)|
 |AGAME - [A Generative Appearance Model for End-to-end Video Object Segmentation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Johnander_A_Generative_Appearance_Model_for_End-To-End_Video_Object_Segmentation_CVPR_2019_paper.pdf)|CVPR|2019|[PyTorch](https://github.com/joakimjohnander/agame-vos)|
 |FRTM - [Learning Fast and Robust Target Models for Video Object Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Robinson_Learning_Fast_and_Robust_Target_Models_for_Video_Object_Segmentation_CVPR_2020_paper.pdf)|CVPR|2020|[PyTorch](https://github.com/andr345/frtm-vos)|
