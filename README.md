@@ -46,7 +46,10 @@ TODO: article bibtex
 |2019|[YouTube-VIS-2019](https://competitions.codalab.org/competitions/20128#participate-get_data)|[link](https://arxiv.org/pdf/1905.04804.pdf)|(Multiple objects) Applicable to Unsupervised VOS|
 |2021|[YouTube-VIS-2021](https://competitions.codalab.org/competitions/28988#participate-get_data)|[link](https://arxiv.org/pdf/1905.04804.pdf)|(Multiple objects) Applicable to Unsupervised VOS|
 
-
+#### Useful dataset for VOS
+|Years|Datasets with links|Paper links|
+|:-:|---|:-:|
+|2019|[SAIL-VOS](http://sailvos.web.illinois.edu/_site/index.html)|[link](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hu_SAIL-VOS_Semantic_Amodal_Instance_Level_Video_Object_Segmentation_-_A_CVPR_2019_paper.pdf)|
 
 
 ## Section 4. Methods
