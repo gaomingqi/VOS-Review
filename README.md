@@ -36,9 +36,9 @@ TODO: article bibtex
 
 #### :fire: Popular datasets in deep learning era
 
-|Years|Datasets with links|Paper links|Remarks|
-|:-:|---|:-:|---|
-|2016|[DAVIS-2016](https://davischallenge.org/davis2016/code.html)|[link](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Perazzi_A_Benchmark_Dataset_CVPR_2016_paper.pdf)|Dense|
+|Years|Datasets with links|Paper links|Types|Remarks|
+|:-:|---|:-:|:-:|---|
+|2016|[DAVIS-2016](https://davischallenge.org/davis2016/code.html)|[link](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Perazzi_A_Benchmark_Dataset_CVPR_2016_paper.pdf)|Single object|applicable to train and evaluate both Unsupervised and Semi-supervised VOS|
 
 ## Section 4. Methods
 TODO: tables showing the pdf and code links of the reviewed papers
