@@ -17,4 +17,31 @@
 |2021|TPAMI|S|[Collaborative Video Object Segmentation by Multi-Scale Foreground-Background Integration](https://ieeexplore.ieee.org/abstract/document/9435058) (CFBI+)|[PyTorch](https://github.com/z-x-yang/CFBI)|
 |2021|NeurIPS|S|[Associating Objects with Transformers for Video Object Segmentation](https://proceedings.neurips.cc//paper/2021/file/147702db07145348245dc5a2f2fe5683-Paper.pdf) (AOT)|[PyTorch](https://github.com/yoxu515/aot-benchmark)|
 
+### :star2::star2: Memory-based VOS Methods
+|Years|Venues|Types|Paper titles with links (abbreviates in our review)|Codes|
+|:-:|:-:|:-:|---|:-:|
+|2019|ICCV|S|[Video Object Segmentation using Space-Time Memory Networks](https://openaccess.thecvf.com/content_ICCV_2019/papers/Oh_Video_Object_Segmentation_Using_Space-Time_Memory_Networks_ICCV_2019_paper.pdf) (STM)|[PyTorch](https://github.com/seoungwugoh/STM)|
+|2020|ECCV|S&U|[Video Object Segmentation with Episodic Graph Memory Networks](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480664.pdf) (EGMN)|[PyTorch](https://github.com/carrierlxk/GraphMemVOS)|
+|2020|ECCV|S|[Kernelized Memory Network for Video Object Segmentation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670630.pdf) (KMN)||
+|2020|NeurIPS|S|[Video Object Segmentation with Adaptive Feature Bank and Uncertain-Region Refinement](https://proceedings.neurips.cc/paper/2020/file/234833147b97bb6aed53a8f4f1c7a7d8-Paper.pdf) (AFB-URR)|[PyTorch](https://github.com/xmlyqing00/AFB-URR)|
+|2021|CVPR|S|[SwiftNet: Real-time Video Object Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_SwiftNet_Real-Time_Video_Object_Segmentation_CVPR_2021_paper.pdf) (SwiftNet)|[PyTorch](https://github.com/haochenheheda/SwiftNet)|
+|2021|CVPR|S|[Learning Position and Target Consistency for Memory-based Video Object
+Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_Learning_Position_and_Target_Consistency_for_Memory-Based_Video_Object_Segmentation_CVPR_2021_paper.pdf) (LCM)||
+|2021|CVPR|S|[Efficient Regional Memory Network for Video Object Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Xie_Efficient_Regional_Memory_Network_for_Video_Object_Segmentation_CVPR_2021_paper.pdf) (RMNet)|[PyTorch](https://github.com/hzxie/RMNet)|
+|2021|ICCV|S|[Hierarchical Memory Matching Network for Video Object Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Seong_Hierarchical_Memory_Matching_Network_for_Video_Object_Segmentation_ICCV_2021_paper.pdf) (RMNet)|[PyTorch](https://github.com/Hongje/HMMN)|
+|2021|NeurIPS|S|[Rethinking Space-Time Networks with Improved Memory Coverage for Efficient Video Object Segmentation](https://proceedings.neurips.cc/paper/2021/file/61b4a64be663682e8cb037d9719ad8cd-Paper.pdf) (STCN)|[PyTorch](https://github.com/hkchengrex/STCN)|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
