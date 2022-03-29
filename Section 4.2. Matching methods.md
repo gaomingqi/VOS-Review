@@ -31,6 +31,27 @@
 |2021|NeurIPS|S|[Rethinking Space-Time Networks with Improved Memory Coverage for Efficient Video Object Segmentation](https://proceedings.neurips.cc/paper/2021/file/61b4a64be663682e8cb037d9719ad8cd-Paper.pdf) (STCN)|[PyTorch](https://github.com/hkchengrex/STCN)|
 
 
+### Super-pixel-level & Capsule-based VOS Methods
+|Years|Venues|Types|Paper titles with links (abbreviates in our review)|Codes|
+|:-:|:-:|:-:|---|:-:|
+|2017|ICCV|U|[Primary Video Object Segmentation via Complementary CNNs and Neighborhood Reversible Flow](https://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Primary_Video_Object_ICCV_2017_paper.pdf) (CCNN)||
+|2019|ICCV|S|[CapsuleVOS: Semi-Supervised Video Object Segmentation Using Capsule Routing](https://openaccess.thecvf.com/content_ICCV_2019/papers/Duarte_CapsuleVOS_Semi-Supervised_Video_Object_Segmentation_Using_Capsule_Routing_ICCV_2019_paper.pdf) (CapsuleVOS)|[Tensorflow](https://github.com/KevinDuarte/CapsuleVOS)|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
