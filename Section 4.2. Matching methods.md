@@ -37,6 +37,17 @@
 |2017|ICCV|U|[Primary Video Object Segmentation via Complementary CNNs and Neighborhood Reversible Flow](https://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Primary_Video_Object_ICCV_2017_paper.pdf) (CCNN)||
 |2019|ICCV|S|[CapsuleVOS: Semi-Supervised Video Object Segmentation Using Capsule Routing](https://openaccess.thecvf.com/content_ICCV_2019/papers/Duarte_CapsuleVOS_Semi-Supervised_Video_Object_Segmentation_Using_Capsule_Routing_ICCV_2019_paper.pdf) (CapsuleVOS)|[Tensorflow](https://github.com/KevinDuarte/CapsuleVOS)|
 
+### Object-level Matching-based VOS Methods
+|Years|Venues|Types|Paper titles with links (abbreviates in our review)|Codes|
+|:-:|:-:|:-:|---|:-:|
+|2018|ECCV|S|[Video Object Segmentation with Joint Re-identification and Attention-Aware Mask Propagation](https://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaoxiao_Li_Video_Object_Segmentation_ECCV_2018_paper.pdf) (Dye-Net)||
+|2018|ACCV|S|[PReMVOS: Proposal-generation, Refinement and Merging for Video Object Segmentation](https://link.springer.com/chapter/10.1007/978-3-030-20870-7_35) (PReMVOS)|[Tensorflow](https://github.com/JonathonLuiten/PReMVOS)|
+|2019|ICCV|S|[Fast Video Object Segmentation via Dynamic Targeting Network](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Fast_Video_Object_Segmentation_via_Dynamic_Targeting_Network_ICCV_2019_paper.pdf) (DTN)||
+|2019|ICCV|S|[DMM-Net: Differentiable Mask-Matching Network for Video Object Segmentation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zeng_DMM-Net_Differentiable_Mask-Matching_Network_for_Video_Object_Segmentation_ICCV_2019_paper.pdf) (DMM-Net)|[PyTorch](https://github.com/ZENGXH/DMM_Net)|
+|2018|CVPR|S|[Fast and Accurate Online Video Object Segmentation via Tracking Parts](https://openaccess.thecvf.com/content_cvpr_2018/papers/Cheng_Fast_and_Accurate_CVPR_2018_paper.pdf) (FAVOS)|[Caffe](https://github.com/JingchunCheng/FAVOS)|
+|2019|CVPR|S|[Fast Online Object Tracking and Segmentation: A Unifying Approach](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Fast_Online_Object_Tracking_and_Segmentation_A_Unifying_Approach_CVPR_2019_paper.pdf) (SiamMask)|[PyTorch](https://github.com/foolwood/SiamMask)|
+|2020|CVPR|S|[State-Aware Tracker for Real-Time Video Object Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_State-Aware_Tracker_for_Real-Time_Video_Object_Segmentation_CVPR_2020_paper.pdf) (SAT)|[PyTorch](https://github.com/MegviiDetection/video_analyst)|
+
 
 
 
