@@ -1,4 +1,6 @@
-This repo is built to facilitate access to the related VOS datasets and papers (with code links if applicable) in the PAPER: Deep Learning for Video Object Segmentation: A Review, where the recent unsupervised (also termed as zero-shot) and semi-supervised (also termed as one-shot) VOS datasets and methods are discussed. 
+## Deep Learning for Video Object Segmentation: A Review
+
+This repo collects the deep Learning-based Unsupervised / Semi-supervised Video Object Segmentation datasets and methods. More details could be found in our paper: Deep Learning for Video Object Segmentation: A Review. 
 
 If you find our review and repository useful for your research, please consider citing our paper:
 
