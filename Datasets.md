@@ -11,7 +11,7 @@
 |2012|[YouTube-Objects](https://vision.cs.utexas.edu/projects/videoseg/)|[link](https://www.cs.utexas.edu/~grauman/papers/suyog-eccv2014.pdf)|
 |2015|[JumpCut](https://www.dropbox.com/s/v0v3pkrhz1vizyt/VideoSeg_dataset.rar?dl=0)|[link](https://dl.acm.org/doi/10.1145/2816795.2818105)|
 
-#### :fire: Popular datasets in deep learning era
+#### :fire: Popular datasets in the deep learning era
 
 |Years|Datasets with links|Paper links|Remarks|
 |:-:|---|:-:|---|
