@@ -1,4 +1,4 @@
-## [Deep Learning for Video Object Segmentation: A Review]((https://link.springer.com/content/pdf/10.1007/s10462-022-10176-7.pdf))
+## [Deep Learning for Video Object Segmentation: A Review](https://link.springer.com/content/pdf/10.1007/s10462-022-10176-7.pdf)
 
 This repo collects the deep Learning-based **Unsupervised (also termed as zero-shot)** / **Semi-supervised (also termed as one-shot)** Video Object Segmentation datasets and methods (with code links if applicable). More details could be found in our paper ([pdf](https://link.springer.com/content/pdf/10.1007/s10462-022-10176-7.pdf)). 
 
