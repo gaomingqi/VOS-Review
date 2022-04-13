@@ -5,7 +5,14 @@ This repo collects the deep Learning-based **Unsupervised (also termed as zero-s
 If you find our review and repository useful for your research, please consider citing our paper:
 
 ```bibtex
-TODO: article bibtex
+@article{gao2022deep,
+  title={Deep learning for video object segmentation: a review},
+  author={Gao, Mingqi and Zheng, Feng and Yu, James JQ and Shan, Caifeng and Ding, Guiguang and Han, Jungong},
+  journal={Artificial Intelligence Review},
+  pages={1--75},
+  year={2022},
+  publisher={Springer}
+}
 ```
 
 ## Content
