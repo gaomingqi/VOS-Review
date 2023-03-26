@@ -16,7 +16,7 @@ This repo collects Deep Learning-based ***Unsupervised (also termed zero-shot)**
 
 - [Section 4.6. Long-term Propagation-based VOS Methods](https://github.com/gaomingqi/VOS-Review/blob/master/Sections/Section_4_6_Long_Prop.md)
 
-This repo also collects ***[:rocket: Awesome VOS Works :rocket:](https://github.com/gaomingqi/VOS-Review/blob/master/Sections/Awesome_VOS_works.md)*** proposed after  paper and will continuously update the list. 
+:rocket: This repo also collects ***[Awesome VOS Works](https://github.com/gaomingqi/VOS-Review/blob/master/Sections/Awesome_VOS_works.md)*** proposed after the paper and will continuously update the list. 
 
 If you find our review and repository useful for your research, please consider citing the paper:
 
