@@ -1,6 +1,6 @@
 ## [Deep Learning for Video Object Segmentation: A Review](https://link.springer.com/content/pdf/10.1007/s10462-022-10176-7.pdf)
 
-This repo collects Deep Learning-based `Unsupervised (also termed zero-shot)` and `Semi-supervised (also termed one-shot)` Video Object Segmentation datasets and methods (with code links if applicable) discussed in the paper "Deep learning for video object segmentation: a review" ([pdf](https://link.springer.com/content/pdf/10.1007/s10462-022-10176-7.pdf)):  
+This repo collects Deep Learning-based ***Unsupervised (also termed zero-shot)*** and ***Semi-supervised (also termed one-shot)*** Video Object Segmentation datasets and methods (with code links if applicable) discussed in the paper "Deep learning for video object segmentation: a review" ([pdf](https://link.springer.com/content/pdf/10.1007/s10462-022-10176-7.pdf)):  
 
 - [Section 3. Datasets](https://github.com/gaomingqi/VOS-Review/blob/master/Sections/Section_3_Datasets.md)
 
@@ -16,7 +16,7 @@ This repo collects Deep Learning-based `Unsupervised (also termed zero-shot)` an
 
 - [Section 4.6. Long-term Propagation-based VOS Methods](https://github.com/gaomingqi/VOS-Review/blob/master/Sections/Section_4_6_Long_Prop.md)
 
-This repo also collects [Awesome VOS Works](https://github.com/gaomingqi/VOS-Review/blob/master/Sections/Awesome_VOS_Works.md) proposed after  paper and will continuously update the list. 
+This repo also collects ***[Awesome VOS Works :rocket:](https://github.com/gaomingqi/VOS-Review/blob/master/Sections/Awesome_VOS_Works.md)*** proposed after  paper and will continuously update the list. 
 
 If you find our review and repository useful for your research, please consider citing the paper:
 
