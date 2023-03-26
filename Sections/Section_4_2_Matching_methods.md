@@ -1,7 +1,7 @@
 ## Section 4.2. Feature Matching-based VOS Methods
 
 ### Pixel-level Matching-based VOS Methods
-|Years|Venues|Types|Paper titles with links (abbreviates in our review)|Codes|
+|Year|Venue|Type|Paper titles with links (abbreviates in our review)|Code|
 |:-:|:-:|:-:|---|:-:|
 |2017|ICCV|S|[Pixel-Level Matching for Video Object Segmentation using Convolutional Neural Networks](https://openaccess.thecvf.com/content_ICCV_2017/papers/Yoon_Pixel-Level_Matching_for_ICCV_2017_paper.pdf) (PLM)|[Website](https://jsyoon4325.wixsite.com/pix-matching)|
 |2018|CVPR|S|[Fast Video Object Segmentation by Reference-Guided Mask Propagation](https://openaccess.thecvf.com/content_cvpr_2018/papers/Oh_Fast_Video_Object_CVPR_2018_paper.pdf) (RGMP)|[PyTorch](https://github.com/seoungwugoh/RGMP)|
@@ -18,7 +18,7 @@
 |2021|NeurIPS|S|[Associating Objects with Transformers for Video Object Segmentation](https://proceedings.neurips.cc//paper/2021/file/147702db07145348245dc5a2f2fe5683-Paper.pdf) (AOT)|[PyTorch](https://github.com/yoxu515/aot-benchmark)|
 
 ### :star2::star2: Memory-based VOS Methods
-|Years|Venues|Types|Paper titles with links (abbreviates in our review)|Codes|
+|Year|Venue|Type|Paper titles with links (abbreviates in our review)|Code|
 |:-:|:-:|:-:|---|:-:|
 |2019|ICCV|S|[Video Object Segmentation using Space-Time Memory Networks](https://openaccess.thecvf.com/content_ICCV_2019/papers/Oh_Video_Object_Segmentation_Using_Space-Time_Memory_Networks_ICCV_2019_paper.pdf) (STM)|[PyTorch](https://github.com/seoungwugoh/STM)|
 |2020|ECCV|S&U|[Video Object Segmentation with Episodic Graph Memory Networks](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480664.pdf) (EGMN)|[PyTorch](https://github.com/carrierlxk/GraphMemVOS)|
