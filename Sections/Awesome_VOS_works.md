@@ -1,5 +1,5 @@
 ## Awesome Video Object Segmentation Works (2022-Present)
-![](https://img.shields.io/github/last-commit/gaomingqi/VOS-Review?style=flat-square&color=orange)
+![](https://img.shields.io/github/last-commit/gaomingqi/VOS-Review?style=flat-square&colorB=abcdef)
 
 ## 2023
 
