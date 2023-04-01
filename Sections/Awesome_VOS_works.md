@@ -7,6 +7,8 @@ VOS works before 2022 can be found in our review paper: "Deep Learning for Video
 
 Please feel free to send us pull requests to add links.
 
+![](https://img.shields.io/static/v1?label=&message=svos&color=green): dfd
+
 $\colorbox{palegreen}{{\color{dimgray}{Svos}}}$: Semi-Supervised VOS, 
 $\colorbox{paleturquoise}{{\color{black}{Uvos}}}$: Un-Supervised VOS, 
 $\colorbox{mistyrose}{{\color{dimgray}{Rvos}}}$: Referring VOS
@@ -18,7 +20,7 @@ $\colorbox{mistyrose}{{\color{dimgray}{Rvos}}}$: Referring VOS
 Scribble-Supervised Video Object Segmentation [[paper](https://arxiv.org/pdf/2303.14384.pdf)][[code](https://github.com/mkg1204/RHMNet-for-SSVOS)]
 
 #### CVPR 2023
-- $\colorbox{palegreen}{{\color{dimgray}{Svos}}}$ $\colorbox{mistyrose}{{\color{dimgray}{Rvos}}}$  Universal Instance Perception as Object Discovery and Retrieval [[paper](https://arxiv.org/pdf/2303.06674.pdf)] [[code](https://github.com/MasterBin-IIAU/UNINEXT)]
+- ![](https://img.shields.io/static/v1?label=&message=svos&color=green) $\colorbox{mistyrose}{{\color{dimgray}{Rvos}}}$  Universal Instance Perception as Object Discovery and Retrieval [[paper](https://arxiv.org/pdf/2303.06674.pdf)] [[code](https://github.com/MasterBin-IIAU/UNINEXT)]
    
 - $\colorbox{palegreen}{{\color{dimgray}{Svos}}}$ Two-shot Video Object Segmetnation [[paper](https://arxiv.org/pdf/2303.12078.pdf)] [[code](https://github.com/yk-pku/Two-shot-Video-Object-Segmentation)]
 
