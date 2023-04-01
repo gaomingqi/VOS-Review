@@ -7,12 +7,6 @@ VOS works before 2022 can be found in our review paper: "Deep Learning for Video
 
 Please feel free to send us pull requests to add links.
 
-![](https://img.shields.io/d?style=flat-square&colorB=abcdef)
-
-
-
-![](https://img.shields.io/github/last-commit/gaomingqi/VOS-Review?style=flat-square&colorB=abcdef): dfdSemisue
-
 $\colorbox{palegreen}{{\color{dimgray}{Svos}}}$: Semi-Supervised VOS, 
 $\colorbox{paleturquoise}{{\color{black}{Uvos}}}$: Un-Supervised VOS, 
 $\colorbox{mistyrose}{{\color{dimgray}{Rvos}}}$: Referring VOS
