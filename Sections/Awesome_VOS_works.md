@@ -5,16 +5,19 @@
 
 ### Arxiv
 - Reliability-Hierarchical Memory Network for
-Scribble-Supervised Video Object Segmentation ([pdf](https://arxiv.org/pdf/2303.14384.pdf))([code](https://github.com/mkg1204/RHMNet-for-SSVOS))
+Scribble-Supervised Video Object Segmentation ([pdf](https://arxiv.org/pdf/2303.14384.pdf))([code](https://github.com/mkg1204/RHMNet-for-SSVOS)) `ssvos` 
 
 ### CVPR 2023
-- [![#f03c15](https://placehold.co/5x5/f03c15/f03c15.png) `svos`] Universal Instance Perception as Object Discovery and Retrieval ([pdf](https://arxiv.org/pdf/2303.06674.pdf)) ([code](https://github.com/MasterBin-IIAU/UNINEXT))
+- Universal Instance Perception as Object Discovery and Retrieval ([pdf](https://arxiv.org/pdf/2303.06674.pdf)) ([code](https://github.com/MasterBin-IIAU/UNINEXT))
+  - `svos` `rvos` 
    
 - Two-shot Video Object Segmetnation ([pdf](https://arxiv.org/pdf/2303.12078.pdf)) ([code](https://github.com/yk-pku/Two-shot-Video-Object-Segmentation))
+  - `svos` 
    
 
 - MobileVOS: Real-Time Video Object Segmentation
 Contrastive Learning meets Knowledge Distillation ([pdf](https://arxiv.org/pdf/2303.07815.pdf))
+    - `svos` 
 
 - Look Before You Match: Instance Understanding Matters
 in Video Object Segmentation ([pdf](https://arxiv.org/pdf/2212.06826.pdf))
