@@ -8,7 +8,7 @@
 Scribble-Supervised Video Object Segmentation ([pdf](https://arxiv.org/pdf/2303.14384.pdf))([code](https://github.com/mkg1204/RHMNet-for-SSVOS))
 
 #### CVPR 2023
-- $\colorbox{green}{{\color{white}{\ SVOS\ }}}$ $\colorbox{green}{{\color{white}{\ RVOS\ }}}$  Universal Instance Perception as Object Discovery and Retrieval ([pdf](https://arxiv.org/pdf/2303.06674.pdf)) ([code](https://github.com/MasterBin-IIAU/UNINEXT))
+- $\colorbox{green}{{\color{green}{I}\color{white}{svos}}\color{green}{I}}$ $\colorbox{orange}{\color{orange}{I}{\color{white}{rvos}\color{orange}{I}}}$  Universal Instance Perception as Object Discovery and Retrieval ([pdf](https://arxiv.org/pdf/2303.06674.pdf)) ([code](https://github.com/MasterBin-IIAU/UNINEXT))
    
 - Two-shot Video Object Segmetnation ([pdf](https://arxiv.org/pdf/2303.12078.pdf)) ([code](https://github.com/yk-pku/Two-shot-Video-Object-Segmentation))
 
