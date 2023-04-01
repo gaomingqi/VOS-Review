@@ -18,9 +18,9 @@ This repo collects Deep Learning-based ***"Unsupervised (also termed zero-shot)"
 
 - [Section 4.6. Long-term Propagation-based VOS Methods](https://github.com/gaomingqi/VOS-Review/blob/master/Sections/Section_4_6_Long_Prop.md)
 
-### :star2: [Awesome VOS Works](https://github.com/gaomingqi/VOS-Review/blob/master/Sections/Awesome_VOS_works.md) :star2:
+### :star2: [Awesome VOS Works](https://github.com/gaomingqi/awesome-video-object-segmentation) :star2:
 
-This repo also collects [VOS papers and datasets](https://github.com/gaomingqi/VOS-Review/blob/master/Sections/Awesome_VOS_works.md) proposed after the review and will continuously update the list. 
+This repo also collects [VOS papers and datasets](https://github.com/gaomingqi/awesome-video-object-segmentation) proposed after the review and will continuously update the list. 
 
 If you find our review and repository useful for your research, please consider citing the paper:
 
