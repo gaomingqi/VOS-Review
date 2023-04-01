@@ -13,7 +13,7 @@ Scribble-Supervised Video Object Segmentation ([pdf](https://arxiv.org/pdf/2303.
    
 - Two-shot Video Object Segmetnation ([pdf](https://arxiv.org/pdf/2303.12078.pdf)) ([code](https://github.com/yk-pku/Two-shot-Video-Object-Segmentation))
   - `svos` 
-   
+![](https://img.shields.io/badge/gidthub-blue?style=for-the-badge)
 
 - MobileVOS: Real-Time Video Object Segmentation
 Contrastive Learning meets Knowledge Distillation ([pdf](https://arxiv.org/pdf/2303.07815.pdf))
