@@ -3,10 +3,19 @@
 
 VOS works before 2022 can be found in our review paper: "Deep Learning for Video Object Segmentation: A Review" [[paper](https://link.springer.com/content/pdf/10.1007/s10462-022-10176-7.pdf)] or [[this page](https://github.com/gaomingqi/VOS-Review)]. 
 
-$\colorbox{palegreen}{{\color{dimgray}{Svos}}}$: Semi-Supervised VOS, 
-$\colorbox{paleturquoise}{{\color{black}{Uvos}}}$: Scribble-Supervised VOS, 
-$\colorbox{mistyrose}{{\color{dimgray}{Rvos}}}$: Referring VOS
+## Contributing
 
+Please feel free to send us pull requests to add links.
+
+![](https://img.shields.io/d?style=flat-square&colorB=abcdef)
+
+
+
+![](https://img.shields.io/github/last-commit/gaomingqi/VOS-Review?style=flat-square&colorB=abcdef): dfdSemisue
+
+$\colorbox{palegreen}{{\color{dimgray}{Svos}}}$: Semi-Supervised VOS, 
+$\colorbox{paleturquoise}{{\color{black}{Uvos}}}$: Un-Supervised VOS, 
+$\colorbox{mistyrose}{{\color{dimgray}{Rvos}}}$: Referring VOS
 
 ## 2023
 
