@@ -20,7 +20,7 @@ This repo collects Deep Learning-based ***"Unsupervised (also termed zero-shot)"
 
 ### :star2: [Awesome VOS Works](https://github.com/gaomingqi/awesome-video-object-segmentation) :star2:
 
-This repo also collects [VOS papers and datasets](https://github.com/gaomingqi/awesome-video-object-segmentation) proposed after the review and will continuously update the list. 
+We also collect [VOS papers and datasets](https://github.com/gaomingqi/awesome-video-object-segmentation) proposed after the review and will continuously update the list. 
 
 If you find our review and repository useful for your research, please consider citing the paper:
 
