@@ -1,6 +1,8 @@
 ## Awesome Video Object Segmentation Works (2022-Present)
 ![](https://img.shields.io/github/last-commit/gaomingqi/VOS-Review?style=flat-square&colorB=abcdef)
 
+VOS works before 2022 can be found in our review paper: "Deep Learning for Video Object Segmentation: A Review" [[paper](https://link.springer.com/content/pdf/10.1007/s10462-022-10176-7.pdf)] or [[this page](https://github.com/gaomingqi/VOS-Review)]. 
+
 $\colorbox{palegreen}{{\color{dimgray}{Svos}}}$: Semi-Supervised VOS, 
 $\colorbox{paleturquoise}{{\color{black}{Uvos}}}$: Scribble-Supervised VOS, 
 $\colorbox{mistyrose}{{\color{dimgray}{Rvos}}}$: Referring VOS
@@ -10,18 +12,21 @@ $\colorbox{mistyrose}{{\color{dimgray}{Rvos}}}$: Referring VOS
 
 #### Arxiv
 - Reliability-Hierarchical Memory Network for
-Scribble-Supervised Video Object Segmentation ([pdf](https://arxiv.org/pdf/2303.14384.pdf))([code](https://github.com/mkg1204/RHMNet-for-SSVOS))
+Scribble-Supervised Video Object Segmentation [[paper](https://arxiv.org/pdf/2303.14384.pdf)][[code](https://github.com/mkg1204/RHMNet-for-SSVOS)]
 
 #### CVPR 2023
-- $\colorbox{palegreen}{{\color{dimgray}{Svos}}}$ $\colorbox{mistyrose}{{\color{dimgray}{Rvos}}}$  Universal Instance Perception as Object Discovery and Retrieval ([pdf](https://arxiv.org/pdf/2303.06674.pdf)) ([code](https://github.com/MasterBin-IIAU/UNINEXT))
+- $\colorbox{palegreen}{{\color{dimgray}{Svos}}}$ $\colorbox{mistyrose}{{\color{dimgray}{Rvos}}}$  Universal Instance Perception as Object Discovery and Retrieval [[paper](https://arxiv.org/pdf/2303.06674.pdf)] [[code](https://github.com/MasterBin-IIAU/UNINEXT)]
    
-- $\colorbox{palegreen}{{\color{dimgray}{Svos}}}$ Two-shot Video Object Segmetnation ([pdf](https://arxiv.org/pdf/2303.12078.pdf)) ([code](https://github.com/yk-pku/Two-shot-Video-Object-Segmentation))
+- $\colorbox{palegreen}{{\color{dimgray}{Svos}}}$ Two-shot Video Object Segmetnation [[paper](https://arxiv.org/pdf/2303.12078.pdf)] [[code](https://github.com/yk-pku/Two-shot-Video-Object-Segmentation)]
 
 - $\colorbox{palegreen}{{\color{dimgray}{Svos}}}$ MobileVOS: Real-Time Video Object Segmentation
-Contrastive Learning meets Knowledge Distillation ([pdf](https://arxiv.org/pdf/2303.07815.pdf))
+Contrastive Learning meets Knowledge Distillation [[paper](https://arxiv.org/pdf/2303.07815.pdf)]
 
 - $\colorbox{palegreen}{{\color{dimgray}{Svos}}}$ Look Before You Match: Instance Understanding Matters
-in Video Object Segmentation ([pdf](https://arxiv.org/pdf/2212.06826.pdf))
+in Video Object Segmentation [[paper](https://arxiv.org/pdf/2212.06826.pdf)]
+
+#### AAAI 2023
+- $\colorbox{palegreen}{{\color{dimgray}{Svos}}}$ Learning to Learn Better for Video Object Segmentation [[paper](https://arxiv.org/pdf/2212.02112.pdf)]
 
 #### IEEE TPAMI
 - $\colorbox{mistyrose}{{\color{dimgray}{Rvos}}}$ VLT: Vision-Language Transformer and Query Generation for Referring Segmentation [[paper](https://ieeexplore.ieee.org/abstract/document/9932025)]
@@ -32,50 +37,50 @@ in Video Object Segmentation ([pdf](https://arxiv.org/pdf/2212.06826.pdf))
 
 #### NeurIPS 2022
 - $\colorbox{palegreen}{{\color{dimgray}{Svos}}}$ Decoupling Features in Hierarchical Propagation
-for Video Object Segmentation ([pdf](https://arxiv.org/pdf/2210.09782.pdf))
+for Video Object Segmentation [[paper](https://arxiv.org/pdf/2210.09782.pdf)]
 
-- Self-supervised Amodal Video Object Segmentation ([pdf](https://arxiv.org/pdf/2210.12733.pdf))
+- Self-supervised Amodal Video Object Segmentation [[paper](https://arxiv.org/pdf/2210.12733.pdf)]
 
 #### ECCV 2022
 
 - $\colorbox{palegreen}{{\color{dimgray}{Svos}}}$ BATMAN: Bilateral Attention Transformer in
 Motion-Appearance Neighboring Space for
-Video Object Segmentation ([pdf](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890603.pdf))
+Video Object Segmentation [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890603.pdf)]
 
 - $\colorbox{palegreen}{{\color{dimgray}{Svos}}}$ XMem: Long-Term Video Object Segmentation
-with an Atkinson-Shiffrin Memory Model ([pdf](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136880633.pdf)) ([code](https://github.com/hkchengrex/XMem))
+with an Atkinson-Shiffrin Memory Model [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136880633.pdf)] [[code](https://github.com/hkchengrex/XMem)]
 
-- $\colorbox{palegreen}{{\color{dimgray}{Svos}}}$ Learning Quality-aware Dynamic Memory for Video Object Segmentation ([pdf](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890462.pdf)) ([code](https://github.com/workforai/QDMN))
+- $\colorbox{palegreen}{{\color{dimgray}{Svos}}}$ Learning Quality-aware Dynamic Memory for Video Object Segmentation [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890462.pdf)] [[code](https://github.com/workforai/QDMN)]
 
 - $\colorbox{palegreen}{{\color{dimgray}{Svos}}}$ Tackling Background Distraction in
-Video Object Segmentation ([pdf](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820434.pdf)) ([code](https://github.com/suhwan-cho/TBD))
+Video Object Segmentation [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820434.pdf)] [[code](https://github.com/suhwan-cho/TBD)]
 
-- $\colorbox{palegreen}{{\color{dimgray}{Svos}}}$ Global Spectral Filter Memory Network for Video Object Segmentation ([pdf](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890639.pdf)) ([code](https://github.com/workforai/GSFM))
+- $\colorbox{palegreen}{{\color{dimgray}{Svos}}}$ Global Spectral Filter Memory Network for Video Object Segmentation [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890639.pdf)] [[code](https://github.com/workforai/GSFM)]
 
-- $\colorbox{paleturquoise}{{\color{black}{Uvos}}}$ Hierarchical Feature Alignment Network for Unsupervised Video Object Segmentation ([pdf](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136940584.pdf))
+- $\colorbox{paleturquoise}{{\color{black}{Uvos}}}$ Hierarchical Feature Alignment Network for Unsupervised Video Object Segmentation [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136940584.pdf)]
 
 #### CVPR 2022
 
-- $\colorbox{mistyrose}{{\color{dimgray}{Rvos}}}$ End-to-End Referring Video Object Segmentation With Multimodal Transformers ([pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Botach_End-to-End_Referring_Video_Object_Segmentation_With_Multimodal_Transformers_CVPR_2022_paper.pdf)) ([code](https://github.com/mttr2021/MTTR))
+- $\colorbox{mistyrose}{{\color{dimgray}{Rvos}}}$ End-to-End Referring Video Object Segmentation With Multimodal Transformers [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Botach_End-to-End_Referring_Video_Object_Segmentation_With_Multimodal_Transformers_CVPR_2022_paper.pdf)] [[code](https://github.com/mttr2021/MTTR)]
 
-- $\colorbox{mistyrose}{{\color{dimgray}{Rvos}}}$ Language As Queries for Referring Video Object Segmentation ([pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Language_As_Queries_for_Referring_Video_Object_Segmentation_CVPR_2022_paper.pdf)) ([code](https://github.com/wjn922/ReferFormer))
+- $\colorbox{mistyrose}{{\color{dimgray}{Rvos}}}$ Language As Queries for Referring Video Object Segmentation [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Language_As_Queries_for_Referring_Video_Object_Segmentation_CVPR_2022_paper.pdf)] [[code](https://github.com/wjn922/ReferFormer)]
 
-- $\colorbox{mistyrose}{{\color{dimgray}{Rvos}}}$ Language-Bridged Spatial-Temporal Interaction for Referring Video Object Segmentation ([pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Ding_Language-Bridged_Spatial-Temporal_Interaction_for_Referring_Video_Object_Segmentation_CVPR_2022_paper.pdf)) ([code](https://github.com/dzh19990407/LBDT))
+- $\colorbox{mistyrose}{{\color{dimgray}{Rvos}}}$ Language-Bridged Spatial-Temporal Interaction for Referring Video Object Segmentation [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ding_Language-Bridged_Spatial-Temporal_Interaction_for_Referring_Video_Object_Segmentation_CVPR_2022_paper.pdf)] [[code](https://github.com/dzh19990407/LBDT)]
 
-- $\colorbox{mistyrose}{{\color{dimgray}{Rvos}}}$ Multi-Level Representation Learning With Semantic Alignment for Referring Video Object Segmentation ([pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Multi-Level_Representation_Learning_With_Semantic_Alignment_for_Referring_Video_Object_CVPR_2022_paper.pdf)) 
+- $\colorbox{mistyrose}{{\color{dimgray}{Rvos}}}$ Multi-Level Representation Learning With Semantic Alignment for Referring Video Object Segmentation [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Multi-Level_Representation_Learning_With_Semantic_Alignment_for_Referring_Video_Object_CVPR_2022_paper.pdf)] 
 
 
-- $\colorbox{palegreen}{{\color{dimgray}{Svos}}}$ Recurrent Dynamic Embedding for Video Object Segmentation ([pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Recurrent_Dynamic_Embedding_for_Video_Object_Segmentation_CVPR_2022_paper.pdf)) ([code](https://github.com/Limingxing00/RDE-VOS-CVPR2022))
+- $\colorbox{palegreen}{{\color{dimgray}{Svos}}}$ Recurrent Dynamic Embedding for Video Object Segmentation [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Recurrent_Dynamic_Embedding_for_Video_Object_Segmentation_CVPR_2022_paper.pdf)] [[code](https://github.com/Limingxing00/RDE-VOS-CVPR2022)]
 
-- $\colorbox{palegreen}{{\color{dimgray}{Svos}}}$ Accelerating Video Object Segmentation With Compressed Video ([pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Accelerating_Video_Object_Segmentation_With_Compressed_Video_CVPR_2022_paper.pdf)) ([code](https://github.com/kai422/CoVOS))
+- $\colorbox{palegreen}{{\color{dimgray}{Svos}}}$ Accelerating Video Object Segmentation With Compressed Video [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Accelerating_Video_Object_Segmentation_With_Compressed_Video_CVPR_2022_paper.pdf)] [[code](https://github.com/kai422/CoVOS)]
 
-- $\colorbox{palegreen}{{\color{dimgray}{Svos}}}$ SWEM: Towards Real-Time Video Object Segmentation With Sequential Weighted Expectation-Maximization ([pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_SWEM_Towards_Real-Time_Video_Object_Segmentation_With_Sequential_Weighted_Expectation-Maximization_CVPR_2022_paper.pdf)) 
+- $\colorbox{palegreen}{{\color{dimgray}{Svos}}}$ SWEM: Towards Real-Time Video Object Segmentation With Sequential Weighted Expectation-Maximization [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_SWEM_Towards_Real-Time_Video_Object_Segmentation_With_Sequential_Weighted_Expectation-Maximization_CVPR_2022_paper.pdf)] 
 
-- $\colorbox{palegreen}{{\color{dimgray}{Svos}}}$ Per-Clip Video Object Segmentation ([pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Park_Per-Clip_Video_Object_Segmentation_CVPR_2022_paper.pdf)) ([code](https://github.com/pkyong95/PCVOS))
+- $\colorbox{palegreen}{{\color{dimgray}{Svos}}}$ Per-Clip Video Object Segmentation [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Park_Per-Clip_Video_Object_Segmentation_CVPR_2022_paper.pdf)] [[code](https://github.com/pkyong95/PCVOS)]
 
-- Wnet: Audio-Guided Video Object Segmentation via Wavelet-Based Cross-Modal Denoising Networks ([pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Pan_Wnet_Audio-Guided_Video_Object_Segmentation_via_Wavelet-Based_Cross-Modal_Denoising_Networks_CVPR_2022_paper.pdf)) ([code](https://github.com/asudahkzj/Wnet))
+- Wnet: Audio-Guided Video Object Segmentation via Wavelet-Based Cross-Modal Denoising Networks [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Pan_Wnet_Audio-Guided_Video_Object_Segmentation_via_Wavelet-Based_Cross-Modal_Denoising_Networks_CVPR_2022_paper.pdf)] [[code](https://github.com/asudahkzj/Wnet)]
 
-- YouMVOS: An Actor-Centric Multi-Shot Video Object Segmentation Dataset ([pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Wei_YouMVOS_An_Actor-Centric_Multi-Shot_Video_Object_Segmentation_Dataset_CVPR_2022_paper.pdf)) ([DATASET](https://donglaiw.github.io/proj/youMVOS/))
+- YouMVOS: An Actor-Centric Multi-Shot Video Object Segmentation Dataset [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wei_YouMVOS_An_Actor-Centric_Multi-Shot_Video_Object_Segmentation_Dataset_CVPR_2022_paper.pdf)] [[DATASET](https://donglaiw.github.io/proj/youMVOS/)]
 
 #### AAAI 2022
 
