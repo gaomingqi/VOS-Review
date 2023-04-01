@@ -7,11 +7,9 @@ VOS works before 2022 can be found in our review paper: "Deep Learning for Video
 
 Please feel free to send us pull requests to add links.
 
-![](https://img.shields.io/static/v1?label=&message=svos&color=green): dfd
-
-$\colorbox{palegreen}{{\color{dimgray}{Svos}}}$: Semi-Supervised VOS, 
-$\colorbox{paleturquoise}{{\color{black}{Uvos}}}$: Un-Supervised VOS, 
-$\colorbox{mistyrose}{{\color{dimgray}{Rvos}}}$: Referring VOS
+$\fbox{svos}$: Semi-Supervised VOS, 
+$\fbox{uvos}$: Un-Supervised VOS, 
+$\fbox{rvos}$: Referring VOS
 
 ## 2023
 
@@ -22,12 +20,12 @@ Scribble-Supervised Video Object Segmentation [[paper](https://arxiv.org/pdf/230
 #### CVPR 2023
 - $\fbox{svos}$ $\fbox{\colorbox{mistyrose}{{\color{dimgray}\textsf{rvos}}}}$  Universal Instance Perception as Object Discovery and Retrieval [[paper](https://arxiv.org/pdf/2303.06674.pdf)] [[code](https://github.com/MasterBin-IIAU/UNINEXT)]
    
-- $\colorbox{palegreen}{\fbox{\color{dimgray}\textsf{svos}}}$ Two-shot Video Object Segmetnation [[paper](https://arxiv.org/pdf/2303.12078.pdf)] [[code](https://github.com/yk-pku/Two-shot-Video-Object-Segmentation)]
+-  Two-shot Video Object Segmetnation [[paper](https://arxiv.org/pdf/2303.12078.pdf)] [[code](https://github.com/yk-pku/Two-shot-Video-Object-Segmentation)]
 
 - $\colorbox{palegreen}{{\color{dimgray}{Svos}}}$ MobileVOS: Real-Time Video Object Segmentation
 Contrastive Learning meets Knowledge Distillation [[paper](https://arxiv.org/pdf/2303.07815.pdf)]
 
-- $\colorbox{palegreen}{{\color{dimgray}{Svos}}}$ Look Before You Match: Instance Understanding Matters
+- $\colorbox{palegreen}{{\color{dimgray}\textsf{S}}}$ Look Before You Match: Instance Understanding Matters
 in Video Object Segmentation [[paper](https://arxiv.org/pdf/2212.06826.pdf)]
 
 #### AAAI 2023
