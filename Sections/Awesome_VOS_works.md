@@ -18,14 +18,14 @@ $\fbox{rvos}$: Referring VOS
 Scribble-Supervised Video Object Segmentation [[paper](https://arxiv.org/pdf/2303.14384.pdf)][[code](https://github.com/mkg1204/RHMNet-for-SSVOS)]
 
 #### CVPR 2023
-- $\fbox{svos}$ $\fbox{\colorbox{mistyrose}{{\color{dimgray}\textsf{rvos}}}}$  Universal Instance Perception as Object Discovery and Retrieval [[paper](https://arxiv.org/pdf/2303.06674.pdf)] [[code](https://github.com/MasterBin-IIAU/UNINEXT)]
+- $\colorbox{palegreen}{{\color{dimgray}\textsf{ S }}}$ $\colorbox{mistyrose}{{\color{dimgray}\textsf{ R }}}$  Universal Instance Perception as Object Discovery and Retrieval [[paper](https://arxiv.org/pdf/2303.06674.pdf)] [[code](https://github.com/MasterBin-IIAU/UNINEXT)]
    
 -  Two-shot Video Object Segmetnation [[paper](https://arxiv.org/pdf/2303.12078.pdf)] [[code](https://github.com/yk-pku/Two-shot-Video-Object-Segmentation)]
 
 - $\colorbox{palegreen}{{\color{dimgray}{Svos}}}$ MobileVOS: Real-Time Video Object Segmentation
 Contrastive Learning meets Knowledge Distillation [[paper](https://arxiv.org/pdf/2303.07815.pdf)]
 
-- $\colorbox{palegreen}{{\color{dimgray}\textsf{S}}}$ Look Before You Match: Instance Understanding Matters
+- $\colorbox{palegreen}{{\color{dimgray}\textsf{ S }}}$ Look Before You Match: Instance Understanding Matters
 in Video Object Segmentation [[paper](https://arxiv.org/pdf/2212.06826.pdf)]
 
 #### AAAI 2023
