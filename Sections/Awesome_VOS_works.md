@@ -20,7 +20,7 @@ $\colorbox{mistyrose}{{\color{dimgray}{Rvos}}}$: Referring VOS
 Scribble-Supervised Video Object Segmentation [[paper](https://arxiv.org/pdf/2303.14384.pdf)][[code](https://github.com/mkg1204/RHMNet-for-SSVOS)]
 
 #### CVPR 2023
-- $\fbox{svos}$ $\fbox{\colorbox{mistyrose}{{\color{dimgray}{rvos}}}}$  Universal Instance Perception as Object Discovery and Retrieval [[paper](https://arxiv.org/pdf/2303.06674.pdf)] [[code](https://github.com/MasterBin-IIAU/UNINEXT)]
+- $\fbox{svos}$ $\fbox{\colorbox{mistyrose}{{\color{dimgray}\textsf{rvos}}}}$  Universal Instance Perception as Object Discovery and Retrieval [[paper](https://arxiv.org/pdf/2303.06674.pdf)] [[code](https://github.com/MasterBin-IIAU/UNINEXT)]
    
 - $\colorbox{palegreen}{{\color{dimgray}{Svos}}}$ Two-shot Video Object Segmetnation [[paper](https://arxiv.org/pdf/2303.12078.pdf)] [[code](https://github.com/yk-pku/Two-shot-Video-Object-Segmentation)]
 
