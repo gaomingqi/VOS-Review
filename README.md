@@ -1,8 +1,7 @@
 ## [Deep Learning for Video Object Segmentation: A Review](https://link.springer.com/content/pdf/10.1007/s10462-022-10176-7.pdf)
 
-![](https://img.shields.io/github/last-commit/gaomingqi/VOS-Review?style=flat-square&colorB=abcdef)
-
-This repo collects Deep Learning-based ***"Unsupervised (also termed zero-shot)"*** and ***"Semi-supervised (also termed one-shot)"*** Video Object Segmentation datasets and methods (with code links if applicable) discussed in the paper "Deep learning for video object segmentation: a review" [[paper](https://link.springer.com/content/pdf/10.1007/s10462-022-10176-7.pdf)]:  
+This repo collects Deep Learning-based Video Object Segmentation works discussed in the paper:
+>Deep learning for video object segmentation: a review. 2023. [[paper](https://link.springer.com/content/pdf/10.1007/s10462-022-10176-7.pdf)]
 
 - [Section 3. Datasets](https://github.com/gaomingqi/VOS-Review/blob/master/Sections/Section_3_Datasets.md)
 
